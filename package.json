@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build":"npm install --prefix Backend && npm install --prefix frontend && npm run build --prefix frontend",
-    "start":"npm run start --prefix Backend"
+    "build":"npm install --prefix BackEnd && npm install --prefix frontend && npm run build --prefix frontend",
+    "start":"npm run start --prefix BackEnd"
   },
   "keywords": [],
   "author": "",
